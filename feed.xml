@@ -7,12 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 14 May 2026 16:07:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 18:28:20 +0000</lastBuildDate>
+    <item>
+      <title>Reply vuole trasformare il sapere delle aziende in un modello di AI dedicato</title>
+      <link>https://www.wired.it/article/reply-modello-intelligenza-artificiale-aziende</link>
+      <description>&lt;p&gt;&lt;em&gt;La società di innovazione torinese presenta un sistema per estrapolare la conoscenza delle pmi e aiutarle a trasformarla in sistemi di intelligenza artificiale&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://media-assets.wired.it/photos/6a05eff9042bf2fdbe592969/16:9/w_4496,h_2529,c_limit/2238534737" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Dove sta scritto come funziona un&amp;#x27;azienda? Come spieghi all&amp;#x27;AI come si fanno le cose a casa nostra? In Reply si sono interrogati a lungo su queste domande. E la risposta che l&amp;#x27;azienda torinese di innovazione digitale ha provato a formulare si chiama Reply Model Factory. Una piattaforma di intelligenza artificiale attraverso cui le aziende possono valorizzare il proprio sapere (lo strato cognitivo), sviluppare sistemi addestrati sui propri dati e tagliarli su misura sulle procedure di casa.
+“Oggi tu hai le banche dati ma in realtà all&amp;#x27;interno delle aziende, non c&amp;#x27;è proprio descritto da qualche parte come l&amp;#x27;azienda funziona. È più tramandato dalle persone”, spiega a Wired Filippo Rizzante, chief technology officer di Reply. Una prassi che la società, che quest&amp;#x27;anno celebra i 30 anni di attività, vuole rovesciare. “Ci sono meccanismi per riuscire a rendere lo strato cognitivo in tutte le aree dell&amp;#x27;azienda un asset che descrive bene in modo che gli agenti che ci appiccichi sopra sappiano di cosa stanno parlando”.
+È la logica degli small model e su Wired avevamo già raccontato come versioni più compatte dei grandi modelli che sanno fare di tutto un po&amp;#x27;, basandosi su dati pubblici, spesso non riescano a rispondere a tutte le necessità delle aziende, che hanno invece bisogno di valorizzare la loro conoscenza: i dati raccolti (e non sempre strutturati per essere processati da una macchina), gli standard tecnici e i requisiti di legge, le procedure interne e i flussi organizzativi.
+“**Se hai costruito bene lo stato cognitivo vuol dire che sai dare in pasto all&amp;#x27;AI come funzioni **- prosegue Rizzante -. Ogni azienda in realtà è diversa. Come funziona, dove sono i principi, le regole. È là dove costruisci il differenziale”. Si inizia con un triage per capire dove siano i dati, per pulirli e per valutare se la soluzione migliore sia l&amp;#x27;addestramento di un modello o l&amp;#x27;uso di altre tecnologie già a scaffale. Se si sceglie la prima strada, si procede poi allo sviluppo del sistema di AI, alla sua formazione sul sapere del cliente e al suo ingresso in azienda.
+Giù le barriere del software
+Dopodiché, aggiunge Rizzante, “vanno ripensati i processi, come funziona l&amp;#x27;azienda e sia come organizzi le persone che lavorano sopra sopra gli agenti”. Una consapevolezza che, riconosce il manager, “comincia a esserci sempre di più”. Ad ogni modo, prosegue, “queste cose richiederanno un tempo di digestione per arrivare nelle imprese, anche grossissime, e potrebbe creare competitor nuovi&amp;quot;. Se per anni, riconosce, il software è stato lo strumento differenziale usato dalle grandi imprese per difendere il proprio primato, ora che costruirlo diventa più facile e veloce, si abbattono steccati e trincee. “A questo punto anche le piccole aziende - chiosa Rizzante - possono avere lo stesso software che hanno le grandi aziende, che prima però non potevano permettersi di pagare. O addirittura crearselo nuovo”.
+Sono parole che richiamano quelle pronunciate a fine gennaio al World Economic Forum a Davos all&amp;#x27;ad di Nvidia, Jensen Huang: “La base manifatturiera industriale in Europa è incredibilmente forte. Questa è la vostra opportunità per superare l&amp;#x27;era del software. Entrateci subito in modo da poter ora fondere la vostra capacità industriale, la vostra capacità manifatturiera con l&amp;#x27;intelligenza artificiale”. Parole che Reply ora vuol mettere in pratica.
+Il progetto Model Factory è stato presentato a Xchange, il consueto evento che l&amp;#x27;azienda organizza a Milano per mostrare a clienti e fornitori le tecnologie a cui sta lavorando. Nei padiglioni del Superstudio era esposto anche il computer biologico CL1 di Cortical Labs, società australiana biotech. Reply ha acquistato uno dei pochi esemplari. Un dispositivo che passa quasi inosservato ma rivoluzionario, in cui si sostituisce la tradizionale architettura dei chip a base silicio con organoidi umani, stimolati a svolgere attività all&amp;#x27;apparenza ludiche, come giocare a Pong, per studiare meccanismi di addestramento e rinforzo su una materia viva (le cellule, tenute in coltura in ambiente controllato) quando interagisce con una morta (il chip). Reply ha avviato una prima collaborazione con l&amp;#x27;Università degli Studi di Milano per fare ricerca attraverso il biocomputer.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.wired.it/article/reply-modello-intelligenza-artificiale-aziende</guid>
+      <pubDate>Thu, 14 May 2026 18:03:57 +0200</pubDate>
+      <dc:creator>Luca Zorloni</dc:creator>
+    </item>
     <item>
       <title>Rowenta lancia Blumia, il phon da viaggio piccolo e colorato da portare in vacanza</title>
       <link>https://www.wired.it/article/rowenta-lancia-blumia-il-phon-da-viaggio-piccolo-e-potente-per-prenderti-cura-dei-tuoi-capelli-anche-in-vacanza</link>
       <description>&lt;p&gt;&lt;em&gt;Per chi desidera uno styling curato anche dall&amp;#x27;altra parte del mondo, arriva il nuovo phon da viaggio Rowenta Blumia che punta su compattezza e prestazioni&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://media-assets.wired.it/photos/6a05e62594c0e0029b6d82fb/16:9/w_1920,h_1080,c_limit/Phon%20da%20viaggio%20Rowenta%20Blumia.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://media-assets.wired.it/photos/6a05e62594c0e0029b6d82fb/16:9/w_1920,h_1080,c_limit/Phon%20da%20viaggio%20Rowenta%20Blumia.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Quando si pensa a un phon da viaggio la prima idea che balza in mente è quella di un dispositivo piccolo e leggero, dalle prestazioni non paragonabili a quelle dei modelli tradizionali. Lanciato in Italia in questi giorni, Rowenta Blumia è l&amp;#x27;ultimo asciugacapelli portatile del marchio tedesco che punta a scardinare questa convinzione: sfodera un formato compatto, portando però in dotazione un concentrato di caratteristiche tecniche di tutto rispetto, dalla potenza del flusso d&amp;#x27;aria alla tecnologia ionica contro il crespo. Il tutto arricchito da un design colorato in tre nuance pastello.
 Com&amp;#x27;è fatto e come funziona
 Partiamo dal design, che fa di Rowenta Blumia un phon comodo da infilare in valigia o nello zaino sia per il peso (350 grammi) sia per le dimensioni (22,4 x 8,3 cm). Non ha un&amp;#x27;impugnatura pieghevole come il “fratello maggiore” Rowenta Nano On The Go, ma nel complesso è un buon compromesso dal punto di vista dell&amp;#x27;ingombro, a cui si aggiunge un&amp;#x27;ergonomia interessante per chi oltre a un asciugacapelli da trasportare con facilità ne cerca uno anche da tenere in mano senza affaticare il polso.
@@ -20,28 +37,28 @@ A bordo c&amp;#x27;è un motore nano ad alta velocità che raggiunge i 107.000 g
 Prezzo e disponibilità
 Rowenta Blumia è già disponibile all&amp;#x27;acquisto sia sullo store ufficiale sia su Amazon, in tre diverse colorazioni (Celeste, Pink ed Eucalyptus) che strizzano l&amp;#x27;occhio alla bella stagione e a chi cerca un dispositivo accattivante oltre che funzionale. Il prezzo è sicuramente competitivo (al momento della stesura dell&amp;#x27;articolo è di poco superiore ai 50 euro) e in linea con quello che offre: design portatile, potenza di asciugatura che garantisce risultati convincenti, protezione dai danni provocati dalle alte temperature, tecnologia ionica e un flusso d&amp;#x27;aria controllato e personalizzabile.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.wired.it/article/rowenta-lancia-blumia-il-phon-da-viaggio-piccolo-e-potente-per-prenderti-cura-dei-tuoi-capelli-anche-in-vacanza</guid>
-      <pubDate>Thu, 14 May 2026 17:17:33 +0200</pubDate>
+      <pubDate>Thu, 14 May 2026 15:17:33 +0000</pubDate>
       <dc:creator>Maria Frassetti</dc:creator>
     </item>
     <item>
       <title>Lo smartphone Trump T1 è finalmente pronto, iniziano le spedizioni</title>
       <link>https://www.wired.it/article/smartphone-trump-uscita-usa-prime-spedizioni</link>
       <description>&lt;p&gt;&lt;em&gt;Lo smartphone di Trump è finalmente pronto a debuttare. Mancherebbe poco alla consegna dei primi esemplari del cellulare che porta il nome del Presidente USA&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://media-assets.wired.it/photos/6a05d8607d22b92db7163ca1/16:9/w_1280,h_720,c_limit/trump%20mobile.png" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://media-assets.wired.it/photos/6a05d8607d22b92db7163ca1/16:9/w_1280,h_720,c_limit/trump%20mobile.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Dopo un anno circa dalla presentazione, lo smartphone di Trump chiamato T1 è finalmente pronto a debuttare in modo ufficiale. Secondo gli ultimi aggiornamenti che arrivano da Pat O’Brien, amministratore delegato della società dietro il progetto Trump Mobile, le consegne sono già partite e a giorni i primi utenti lo riceveranno a casa. Per lunghe settimane si era pensato a un ennesimo e forse definitivo rinvio dell&amp;#x27;uscita, un&amp;#x27;evenienza piuttosto scomoda viste le 590.000 prenotazioni raccolte.
 Debutto a breve
 Secondo le ultime stime sono stati 590.000 i cittadini statunitensi che hanno versato il deposito di 100 dollari per assicurarsi le prime unità vendute di Trump Mobile T1, lo smartphone fortemente voluto dal Presidente Usa come esempio di tecnologia autarchica. I 60 milioni di dollari raccolti hanno di certo contribuito alla produzione dei primi lotti di un dispositivo che si propone a un costo di 499 dollari ovvero circa 425 euro al cambio attuale. Atteso lo scorso agosto e poi rinviato una prima volta a ottobre, lo smartphone Trump rischiava concretamente di diventare una chimera tech, ma a detta di O&amp;#x27;Brien l&amp;#x27;attesa si è resa necessaria per uscire sui mercati con un prodotto senza difetti e davvero pronto. Come specificato a Usa Today, lo slittamento si è reso necessario per terminare al meglio i controlli qualità e per validare i componenti. Componenti che dovevano essere originariamente 100% made in Usa, ma che all&amp;#x27;atto pratico hanno necessitato di ordini fuori confine.
 Com&amp;#x27;è il Trump Mobile T1
 T1 è assemblato negli Usa una scheda tecnica di media fascia con un display amoled da 6,78 pollici con frequenza di aggiornamento pari a 120 Hz, processore Snapdragon non meglio specificato, batteria da 5000 mAh e tripla fotocamera posteriore con sensore principale da 50 megapixel, grandangolo da 8 megapixel e ottica zoom 2x da 50 megapixel mentre la selfie camera è da 50 megapixel. Lo sblocco biometrico conta sia sul lettore di impronte sia sul riconoscimento facciale, mentre il sistema operativo è Android. Lo smartphone Trump avrà una scocca dorata che rimanda all&amp;#x27;universo del tycoon, come per esempio le Trump Tower e sarà associato a un piano telefonico da 47,45 dollari, riferimento al 45esimo e 47esimo mandato di Trump come Presidente degli Usa.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.wired.it/article/smartphone-trump-uscita-usa-prime-spedizioni</guid>
-      <pubDate>Thu, 14 May 2026 17:10:11 +0200</pubDate>
+      <pubDate>Thu, 14 May 2026 15:10:11 +0000</pubDate>
       <dc:creator>Diego Barbera</dc:creator>
     </item>
     <item>
-      <title>Rubio diventa “Lubio”: la Cina e l’arte di far sparire le sanzioni con una lettera </title>
+      <title>Rubio diventa “Lubio”: la Cina e l’arte di far sparire le sanzioni con una lettera</title>
       <link>https://www.wired.it/article/marco-rubio-non-potrebbe-entrare-in-cina-fingere-di-essere-lubio</link>
       <description>&lt;p&gt;&lt;em&gt;Come il segretario di Stato Marco Rubio, colpito in passato da sanzioni cinesi per le sue posizioni su uiguri, Hong Kong e Taiwan, è riuscito a entrare in Cina&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://media-assets.wired.it/photos/6a05a3df0f1e761ca084e3a6/16:9/w_5056,h_2844,c_limit/2275316577" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://media-assets.wired.it/photos/6a05a3df0f1e761ca084e3a6/16:9/w_5056,h_2844,c_limit/2275316577" /&gt;&lt;/p&gt;
 &lt;p&gt;Quando il segretario di Stato americano Marco Rubio (da ieri Lubio) è salito a bordo dell&amp;#x27;Air Force One diretto a Pechino insieme al presidente Donald Trump, ha dovuto affrontare un problema cruciale: sulla carta, Rubio in Cina non potrebbe mettere piede. Il suo nome compare nella lista nera di Pechino e tra le sanzioni previste c&amp;#x27;è anche il divieto di ingresso nel paese. Ma negare l’accesso al capo della diplomazia statunitense proprio durante una visita ufficiale sarebbe stato troppo, persino per Pechino. Così il regime ha trovato una soluzione tanto semplice quanto surreale: cambiare il nome dell’ospite “indesiderato”.
 Sui mezzi d&amp;#x27;informazione e nei documenti ufficiali cinesi, dunque, il segretario di Stato è stato presentato con una diversa traslitterazione del cognome. Non più “Rubio”, ma “Lubio”. Quasi una caricatura della pronuncia cinese per chi osserva la vicenda dall’esterno, ma sufficiente, dal punto di vista formale, a creare una nuova grafia e quindi, tecnicamente, una persona diversa da quella colpita dalle sanzioni.
 In questo modo il governo di Pechino ha potuto mantenere formalmente in vigore le proprie misure punitive senza arrivare al gesto diplomaticamente esplosivo di respingere l&amp;#x27;attuale segretario di Stato statunitense. Come hanno riferito due diplomatici al quotidiano britannico The Guardian, la scelta della nuova traslitterazione del cognome sarebbe stata interpretata come un modo per evitare l’applicazione automatica del divieto d’ingresso.
@@ -63,14 +80,14 @@ Per il governo cinese, che considera la questione taiwanese una linea rossa asso
 La situazione è diventata paradossale quando Rubio è entrato nell’amministrazione Trump come capo della diplomazia americana. Figura che si era costruita politicamente su posizioni durissime nei confronti di Pechino, si ritrova ora inserita in un’impostazione molto più pragmatica, in cui lo stesso Trump privilegia il rapporto diretto con Xi Jinping e tende a leggere la Cina più come interlocutore strategico che come avversario ideologico. Da un lato, quindi, resta il profilo del “falco”; dall’altro, è necessario limare un po’ gli artigli per muoversi dentro un’agenda presidenziale che riduce la centralità dello scontro con la Cina.
 Ed è proprio in questa zona grigia tra continuità formale delle sanzioni e necessità di far funzionare i rapporti diplomatici che si inserisce la soluzione linguistica adottata da Pechino. Un espediente degno di una “commedia amministrativa”: la politica resta durissima, le sanzioni restano sulla carta, ma basta cambiare una lettera perché improvvisamente il problema smetta di esistere. Almeno fino alla prossima visita ufficiale.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.wired.it/article/marco-rubio-non-potrebbe-entrare-in-cina-fingere-di-essere-lubio</guid>
-      <pubDate>Thu, 14 May 2026 16:14:56 +0200</pubDate>
+      <pubDate>Thu, 14 May 2026 14:14:56 +0000</pubDate>
       <dc:creator>Elena Betti</dc:creator>
     </item>
     <item>
       <title>L’asteroide 2026 JH2 sta per passare vicino alla Terra (e volendo potete guardarlo in diretta)</title>
       <link>https://www.wired.it/article/asteroide-2026-jh2-sta-per-passare-vicino-terra-volendo-potete-guardarlo-in-diretta</link>
       <description>&lt;p&gt;&lt;em&gt;Il passaggio ravvicinato dell&amp;#x27;asteroide 2026 JH2 è previsto per il 18 maggio. Per i più curiosi sarà possibile non perderselo con un’osservazione in streaming&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://media-assets.wired.it/photos/6a05cc2d89e3aa06fd08d275/16:9/w_4640,h_2610,c_limit/2232599685" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://media-assets.wired.it/photos/6a05cc2d89e3aa06fd08d275/16:9/w_4640,h_2610,c_limit/2232599685" /&gt;&lt;/p&gt;
 &lt;p&gt;Un asteroide vicino casa, la nostra Terra, ci risiamo. L’ultimo salito agli onori della cronaca si chiama 2026 JH2, ha un diametro di una ventina di metri, ed è ora in avvicinamento alla Terra. Ci busserà il prossimo 18 maggio e tutti gli appassionati potranno osservare l’asteroide 2026 JH2 durante la diretta organizzata dal Virtual Telescope nella serata del 18 maggio.
 Incontro ravvicinato a 91 mila km dalla Terra
 In questa data, infatti, l’oggetto passerà a una distanza minima dalla Terra (dal centro) di circa 91 mila km. Come sempre in questi casi, il metro di paragone è la distanza che ci separa dalla Luna, pari a 380 mila km circa, ovvero circa quattro volte tanto. Si tratta dunque di una distanza abbastanza ridotta ed effettivamente la più bassa tra quelle degli incontri con oggetti Near-earth previsti per i prossimi giorni. I Neo sono gli oggetti che si trovano nella vicina periferia terrestre: ce ne sono decine di migliaia e per ora non destano particolare preoccupazione, ma sono ovviamente monitorati, e alcuni hanno un rischio (ridotto) di impattare la Terra nei prossimi anni, come vi raccontavamo. Secondo quanto riferisce il New Scientist il passaggio ravvicinato di 2026 JH2 non rientrerebbe tra questi. Sebbene sfiorare, vicino, siano usate come iperboli, non significa che non siano esistiti e che non esistano oggetti potenzialmente pericolosi.
@@ -79,14 +96,14 @@ L&amp;#x27;asteroide 2026 JH2: un Neo del tipo Apollo
 Un evento non raro
 Non è però di per sé un evento rarissimo il suo passaggio. Cercando infatti tra gli incontri ravvicinati avvenuti solo nell’ultimo anno, tantissimi hanno raggiunto distanze simili e inferiori. Tra questi degni di nota è stato per esempio il passaggio dell’oggetto 2025 TF a circa 400 km dalla superficie terrestre o l’oggetto 2025 UC11 ancora più vicino lo scorso ottobre.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.wired.it/article/asteroide-2026-jh2-sta-per-passare-vicino-terra-volendo-potete-guardarlo-in-diretta</guid>
-      <pubDate>Thu, 14 May 2026 15:38:37 +0200</pubDate>
+      <pubDate>Thu, 14 May 2026 13:38:37 +0000</pubDate>
       <dc:creator>Anna Lisa Bonfranceschi</dc:creator>
     </item>
     <item>
       <title>Moulinex Freezi promette gelato, frozen yogurt e granite in 20 minuti, ecco come fa</title>
       <link>https://www.wired.it/article/moulinex-freezi-promette-gelato-frozen-yogurt-e-granite-in-20-minuti-ecco-come-fa</link>
       <description>&lt;p&gt;&lt;em&gt;Dai gelati ai cocktail freschi senza dover preceongelare: tutto quello che può fare la nuova gelatiera Moulinex in un batter d&amp;#x27;occhio&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://media-assets.wired.it/photos/6a05c5346843fcf3bafc37ed/16:9/w_1920,h_1080,c_limit/Gelatiera%20Moulinex%20Freezi.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://media-assets.wired.it/photos/6a05c5346843fcf3bafc37ed/16:9/w_1920,h_1080,c_limit/Gelatiera%20Moulinex%20Freezi.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Con la bella stagione torna anche la voglia di gelato a qualsiasi ora del giorno e della notte. E la nuova gelatiera Moulinex Freezi arriva giusto in tempo per far fronte a questo bisogno in modo piuttosto facile e veloce. Lanciata sul mercato italiano in questi giorni, si presenta al grande pubblico come un piccolo elettrodomestico multifunzione, in grado di portare in tavola non solo un buon gelato fatto in casa ma anche tante altre preparazioni ghiacciate, come sorbetti e granite. Da come funziona a come si posiziona rispetto ad altre gelatiere del momento, abbiamo raccolto tutto quello che serve sapere subito qui sotto.
 Cosa puoi fare con Moulinex Freezi
 Il punto di forza di Moulinex Freezi è il suo funzionamento che accorcia i tempi di preparazione e rende tutto più semplice e veloce. A differenza di altre gelatiere disponibili sul mercato - incluso il modello Dolci dello stesso marchio - Freezi non necessita di precongelamento in freezer: questo significa che basta mettere dentro gli ingredienti, selezionare il programma e lasciar lavorare la macchina per conto proprio. Ovviamente i tempi variano in base alla ricetta selezionata, ma per gustarsi una coppetta di gelato bastano 20 minuti di attesa.
@@ -127,7 +144,7 @@ Dimensioni
 42,9 x 40,8 x 16,3 cm
 30,5 x 38,5 x 17,5 cm&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.wired.it/article/moulinex-freezi-promette-gelato-frozen-yogurt-e-granite-in-20-minuti-ecco-come-fa</guid>
-      <pubDate>Thu, 14 May 2026 15:33:31 +0200</pubDate>
+      <pubDate>Thu, 14 May 2026 13:33:31 +0000</pubDate>
       <dc:creator>Maria Frassetti</dc:creator>
     </item>
     <item>
