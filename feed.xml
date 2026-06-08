@@ -7,12 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 08 Jun 2026 16:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 17:00:15 +0000</lastBuildDate>
     <item>
       <title>Eataly nel mirino dei cybercriminali, i dati dei consumatori sono a rischio?</title>
       <link>https://www.wired.it/article/eataly-attacco-cybercriminali-dati-utenti-a-rischio</link>
       <description>&lt;p&gt;&lt;em&gt;Un cyberattacco ha colpito l&amp;#x27;infrastruttura dell&amp;#x27;e-commerce, permettendo ai criminali di mettere le mani sui dati personali degli utenti non cifrati&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://media-assets.wired.it/photos/6a26dd33a07575f3c64a5af0/16:9/w_3648,h_2052,c_limit/595374351" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://media-assets.wired.it/photos/6a26dd33a07575f3c64a5af0/16:9/w_3648,h_2052,c_limit/595374351" /&gt;&lt;/p&gt;
 &lt;p&gt;Eataly, la catena di distribuzione e vendita di prodotti alimentari italiani nota in tutto il mondo, è rimasta vittima di un cyberattacco. Secondo quanto riportato in una comunicazione inviata dalla stessa compagnia ai suoi clienti, l&amp;#x27;infrastruttura dell&amp;#x27;ecommerce è stata presa di mira dai criminali informatici, che potrebbero essere così entrati in possesso dei dati personali di decine e decine di consumatori. “Alla luce delle verifiche svolte con i nostri partner di cybersecurity, sebbene non risulti un download dei dati, è possibile che questo attacco abbia esposto i dati personali (anagrafici / di contatto) presenti nel suo account (come nome, cognome, data di nascita, codice fiscale, indirizzi e recapiti) e i dati degli acquisti effettuati”, chiarisce Eataly nella sua comunicazione, rassicurando gli utenti sulle informazioni relative ai metodi di pagamento, che non vengono registrate dal sistema proprio per garantirne la tutela della sicurezza e della privacy.
 Al sicuro anche, secondo quanto confermato dalla compagnia, le password associate agli account, memorizzate “con tecniche di cifratura avanzata” che non permettono ai cybercriminali di visionarle in chiaro. Il problema, quindi, sembra riguardare esclusivamente i dati personali dei clienti Eataly, non cifrati nel modo corretto. E, quindi, alla mercè dei malintenzionati.
 I dati non cifrati mettono a rischio gli utenti
@@ -20,7 +20,7 @@ La scelta di non ricorrere a una corretta cifratura dei dati personali dei clien
 Il precedente di Booking.com
 Il caso di violazione dei dati di Eataly non è affatto isolato. Lo scorso aprile, infatti, è stato Booking.com a finire nel mirino dei criminali informatici, che hanno così avuto la possibilità di mettere le mani su alcuni dei dati degli utenti collegati alle prenotazioni, tra cui email, indirizzi di residenza/domicilio e numeri di telefono. Tra le informazioni rimaste al sicuro, proprio come accaduto nel caso di Eataly, ci sono tutte quelle riguardanti i metodi di pagamento, adeguatamente protette da occhi e mani indiscrete. Pertanto, questo significa che i criminali informatici possono utilizzare dati di questo tipo solo per mettere in piedi truffe indirizzate agli stessi clienti o, nei casi più gravi, furti di identità. Un rischio che, pur non essendo così elevato, merita comunque di essere considerato dai colossi del settore commerciale.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.wired.it/article/eataly-attacco-cybercriminali-dati-utenti-a-rischio</guid>
-      <pubDate>Mon, 08 Jun 2026 17:21:59 +0200</pubDate>
+      <pubDate>Mon, 08 Jun 2026 15:21:59 +0000</pubDate>
       <dc:creator>Chiara Crescenzi</dc:creator>
     </item>
     <item>
