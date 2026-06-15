@@ -7,12 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 15 Jun 2026 06:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 08:00:05 +0000</lastBuildDate>
     <item>
       <title>Intervista a Aneesh Raman: “La fine del vecchio lavoro non è la fine del lavoro”</title>
       <link>https://www.wired.it/article/intervista-aneesh-raman-lavoro-linkedin</link>
       <description>&lt;p&gt;&lt;em&gt;A The Big Interview, il chief economic opportunity officer di LinkedIn riflette sull’impatto dell’intelligenza artificiale sul mercato occupazionale: meno fatalismo, più capacità umane e nuove forme di imprenditorialità&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://media-assets.wired.it/photos/6a2be18ffb3c98d55ff71d8f/16:9/w_5088,h_2862,c_limit/2273286597" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://media-assets.wired.it/photos/6a2be18ffb3c98d55ff71d8f/16:9/w_5088,h_2862,c_limit/2273286597" /&gt;&lt;/p&gt;
 &lt;p&gt;L’intelligenza artificiale non segnerà la fine del lavoro, ma la sua trasformazione. È da qui che parte la riflessione di Aneesh Raman, chief economic opportunity officer di LinkedIn e coautore del libro Open to Work, intervistato in occasione di The Big Interview. Un confronto che prova a spostare il dibattito dall’ansia per l’automazione alle opportunità offerte da una delle più grandi transizioni del mercato del lavoro contemporaneo.&lt;/p&gt;
 &lt;p&gt;Il lavoro cambia, non scompare&lt;/p&gt;
 &lt;p&gt;Secondo Raman, il rischio più grande in questa fase non è l’automazione in sé, ma il fatalismo che accompagna il dibattito pubblico. L’idea che il futuro sia già scritto, che siano le macchine o i grandi manager a decidere il destino dei lavoratori, è per lui uno degli errori più pericolosi. “Nulla di questo momento è predeterminato. Nulla di questo momento è inevitabile”, sottolinea. Anzi, ricorda che nei grandi passaggi storici sono sempre state le scelte umane — individuali e collettive — a orientare il cambiamento.&lt;/p&gt;
@@ -29,14 +29,14 @@
 &lt;p&gt;Alla domanda su quale sia il consiglio più importante per chi guarda con preoccupazione al futuro del lavoro, Raman risponde con semplicità: iniziare. Usare gli strumenti di AI nella vita quotidiana, sperimentare, imparare gradualmente.&lt;/p&gt;
 &lt;p&gt;“Non si tratta di prendere un dottorato in AI entro domani per non perdere il lavoro”, dice. “Si tratta semplicemente di fare una cosa nuova ogni giorno”. Per lui è una questione di mentalità: sviluppare resilienza, adattabilità e fiducia nella propria capacità di evolvere insieme al cambiamento. Perché la vera sfida dell’intelligenza artificiale non riguarda la tecnologia, ma il modo in cui gli esseri umani sceglieranno di usarla.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.wired.it/article/intervista-aneesh-raman-lavoro-linkedin</guid>
-      <pubDate>Mon, 15 Jun 2026 07:00:00 +0200</pubDate>
+      <pubDate>Mon, 15 Jun 2026 05:00:00 +0000</pubDate>
       <dc:creator>Elena Betti</dc:creator>
     </item>
     <item>
       <title>Cosa succede quando la pioggia diventa un'incognita in agricoltura</title>
       <link>https://www.wired.it/article/cosa-succede-quando-pioggia-diventa-incognita-agricoltura</link>
       <description>&lt;p&gt;&lt;em&gt;Siamo stati in Ghana per capire come i dati climatici possono aiutare agricoltori e pastori ad affrontare stagioni sempre più irregolari&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://media-assets.wired.it/photos/69db523970be71fe27855e63/16:9/w_4032,h_2268,c_limit/IMG_9173.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://media-assets.wired.it/photos/69db523970be71fe27855e63/16:9/w_4032,h_2268,c_limit/IMG_9173.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Accra, Ghana – Può piovere abbastanza e non servire a nulla. In agricoltura, la media stagionale delle precipitazioni è un dato utile solo fino a un certo punto. Conta quando l’acqua arriva, per quanto tempo resta nel suolo, se incontra una semina appena fatta o una pianta già in difficoltà. Nel clima che cambia, il problema non è soltanto prevedere la pioggia: è capire se quella pioggia diventerà raccolto.&lt;/p&gt;
 &lt;p&gt;È dentro questo scarto tra il dato meteorologico e il bisogno reale delle colture che si inserisce Aquabeher, uno strumento agrometeorologico sviluppato da un gruppo di ricercatori della Scuola superiore Sant’Anna di Pisa. Il software traduce informazioni su clima e suolo in indicazioni pratiche: quando seminare, quando l’acqua disponibile è sufficiente, quando una stagione umida è davvero una stagione agricola.&lt;/p&gt;
 &lt;p&gt;Siamo stati ad Accra, capitale del Ghana, per un training organizzato dalla Ghana Meteorological Agency con 23 studenti dell’Institute for Environment and Sanitation Studies della University of Ghana. Ma Aquabeher non è solo un esercizio tecnico. In un paese dove agricoltura, pascoli e accesso all’acqua possono intrecciarsi con tensioni sociali e conflitti locali, sapere dove e quando l’acqua sarà disponibile diventa una forma di potere.&lt;/p&gt;
@@ -58,7 +58,7 @@
 &lt;p&gt;Il miglioramento genetico diventa così uno strumento locale e partecipativo. Vengono testate diverse varietà, sia tradizionali sia migliorate, per capire quali mostrano caratteristiche di adattamento favorevoli. Gli agricoltori partecipano direttamente: osservano le colture, valutano le prestazioni e aiutano a costruire un portfolio di varietà adatte a condizioni variabili. L’obiettivo è sviluppare “climate smart varieties”, piante capaci di tollerare stress idrici, sfuggire a temperature elevate durante fasi cruciali per la produttività e adattarsi a stagioni più brevi o irregolari. “Non stiamo creando una varietà universale – precisa Caproni –. Vogliamo risolvere problemi locali con la tecnologia disponibile, mettendola nelle mani giuste per innescare cambiamenti positivi”.&lt;/p&gt;
 &lt;p&gt;Adattarsi al cambiamento climatico significa decidere come impiegare terra e acqua. Sapere quanta ce n’è è un primo passo, ma scegliere come utilizzarla è fondamentale. Ed è una responsabilità che gli umani non possono affidare alla tecnologia.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.wired.it/article/cosa-succede-quando-pioggia-diventa-incognita-agricoltura</guid>
-      <pubDate>Mon, 15 Jun 2026 06:50:00 +0200</pubDate>
+      <pubDate>Mon, 15 Jun 2026 04:50:00 +0000</pubDate>
       <dc:creator>Marta Abbà</dc:creator>
     </item>
     <item>
