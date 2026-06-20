@@ -7,12 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 20 Jun 2026 06:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 08:00:04 +0000</lastBuildDate>
     <item>
       <title>Io, e i robot. Intervista Daniele Pucci, fondatore di Generative Bionics</title>
       <link>https://www.wired.it/article/intervista-daniele-pucci-fondatore-generative-bionics</link>
       <description>&lt;p&gt;&lt;em&gt;Gli umanoidi lavoreranno sempre di più al nostro fianco, è inevitabile, a partire da settori come la sorveglianza, la logistica, i servizi ai clienti e la cura dei pazienti. Ma non è detto che lo faranno a scapito nostro, anzi supporteranno la decrescita della popolazione&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://media-assets.wired.it/photos/6a32b44342c00775d3366df7/16:9/w_2320,h_1305,c_limit/Daniele%20Pucci.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://media-assets.wired.it/photos/6a32b44342c00775d3366df7/16:9/w_2320,h_1305,c_limit/Daniele%20Pucci.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Ad aprire con i loro keynote il Consumer Electronics Show, la grande fiera tecnologica di Las Vegas, sono sempre stati i guru di aziende americane o asiatiche. Daniele Pucci, lo scorso gennaio, è riuscito a prendersi la scena, ospite dell’azienda produttrice di microprocessori Amd. L&amp;#x27;ingegnere originario di Velletri, ha presentato Gene.01, la piattaforma di Physical AI con cui Generative Bionics, società spinoff dell’Istituto Italiano di Tecnologia di Genova, vuole lanciare la sfida ai giganti della robotica europea e mondiale. Wired Italia lo ha intervistato in occasione del numero del magazine L&amp;#x27;Italia che verrà che racconta alcuni dei leader del futuro.&lt;/p&gt;
 &lt;p&gt;“Sono sempre stato affascinato dalle cose in grado di muoversi e a 7 anni progettavo sottomarini alimentati da piccoli motori, poi verso i 14 ho imparato a programmare con assembler per realizzare treni autonomi&amp;quot;, racconta Pucci, che ha due dottorati ed è l’amministratore delegato della società. &amp;quot;Dopo essermi occupato di fusione nucleare e controllo dei velivoli a decollo verticale, sono arrivato all’Iit a Genova. Dovevo restare 6 mesi e invece sono rimasto 12 anni”.&lt;/p&gt;
 &lt;p&gt;È lì che Daniele Pucci si è concentrato sullo sviluppo di robot umanoidi, lavorando ai progetti iCub ed ergoCub, con un focus su locomozione e interazione dinamica, e ha guidato lo sviluppo di iRonCub, il primo umanoide volante a propulsione jet. “Quei progetti ci hanno insegnato tre step fondamentali per arrivare oggi a Gene.01. Con iCub, realizzato in 60 esemplari tra il 2009 e il 2020, abbiamo imparato a essere contemporaneamente centro di ricerca e di manutenzione, per creare il nostro primo robot umanoide e assistere i clienti nelle riparazioni. Poi con ergoCub, pensato per i luoghi di lavoro, abbiamo capito che i robot umanoidi devono essere accettati dagli esseri umani, motivo per cui le espressioni facciali, i movimenti e il linguaggio dovevano essere ancora più avanzati. Il terzo lascito è nel substrato tecnologico di questi progetti: abbiamo sviluppato per entrambi sensori che permettono al robot di percepire in maniera distribuita il contatto con l’essere umano e le forze di interazione”.&lt;/p&gt;
@@ -58,7 +58,7 @@
 &lt;p&gt;Le leggi di Asimov sono affascinanti per un racconto futuristico ma sono deterministiche, prevedendo un rapporto causale tra esse. Però questo tipo di logica non è sufficiente a regolare il rapporto con i robot umanoidi, in cui passeremo dal dominio di dipendenza degli strumenti a quello di influenza: non diremo più a un robot prendi un martello e pianta sei chiodi, ma dovremo dargli istruzioni complesse, illustrandogli il contesto e magari chiedendo di piantare solo quelli rossi e non quelli blu. Per questo si dovranno stabilire principi etici che indirizzeranno gli algoritmi di intelligenza artificiale: solo così questi regoleranno il comportamento autonomo probabilistico degli agenti, indirizzandone l’azione in determinate situazioni limite.&lt;/p&gt;
 &lt;p&gt;Intervista pubblicata nel numero 117 del magazine di Wired Italia dal titolo L&amp;#x27;Italia che verrà, l&amp;#x27;ultimo numero dedicato ai leader italiani del futuro&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.wired.it/article/intervista-daniele-pucci-fondatore-generative-bionics</guid>
-      <pubDate>Sat, 20 Jun 2026 07:00:00 +0200</pubDate>
+      <pubDate>Sat, 20 Jun 2026 05:00:00 +0000</pubDate>
       <dc:creator>Marco Consoli</dc:creator>
     </item>
     <item>
