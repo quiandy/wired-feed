@@ -7,12 +7,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 22 Jun 2026 14:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 15:00:05 +0000</lastBuildDate>
+    <item>
+      <title>Cosa ha scoperto il James Webb Telescope sul misterioso pianeta-non pianeta rosa GJ504b</title>
+      <link>https://www.wired.it/article/cosa-ha-scoperto-james-webb-telescope-sul-misterioso-pianeta-non-pianeta-rosa-gj504b</link>
+      <description>&lt;p&gt;&lt;em&gt;Nuove analisi del &amp;#x27;pianeta rosa&amp;#x27; ne svelano composizione e caratteristiche e indicano la sua possibile natura&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://media-assets.wired.it/photos/6a3940fb54f220038e260583/16:9/w_4992,h_2808,c_limit/157_GJ504b_Exoplanet_FINAL800px.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Il pianeta rosa è finito negli occhi del James Webb Space Telescope, che ha trovato qualcosa di molto interessante su cui far discutere gli astronomi. Come se già non avessero di che discutere di quando si parla del pianeta rosa, o meglio dell’oggetto GJ504b.&lt;/p&gt;
+&lt;p&gt;La notizia è questa: grazie al telescopio spaziale è stato possibile effettuare un’analisi dello spettro di GJ504b - il pianeta che la Nasa ricorda come quello che brilla nei toni del magenta - e così ipotizzarne la natura. Finora, spiegano i ricercatori dalla Northwestern University a capo del nuovo lavoro, era stato alquanto difficile farlo. Troppo freddo (con una temperatura di circa 220 gradi) e troppa debole la sua luce, ha detto Aneesh Baburaj, perché potesse essere osservato da Terra. Il Jwsp ha permesso di superare questo ostacolo e di conoscere un po’ meglio questo oggetto, catalogato come un possibile pianeta, ma che potrebbe essere anche una nana bruna.&lt;/p&gt;
+&lt;p&gt;Le ultime notizie su questo oggetto celeste ufficialmente sono state diffuse dalle pagine della rivista Astronomical Journal. Riguardano, come accennato le analisi dello spettro di GJ504b, questo oggetto che orbita intorno alla stella Gliese 504, a circa 57 anni luce dal nostro Sistema solare, nella costellazione della Vergine (la sua stella sarebbe visibile anche a occhio nudo, ricorda sempre la Nasa). Le analisi sono state fatte grazie allo spettrografo nel vicino infrarosso del telescopio spaziale e sono durate circa 150 minuti.&lt;/p&gt;
+&lt;p&gt;Secondo i dati raccolti dai ricercatori, dal pianeta arrivano segnali riconducibili alla presenza di anidride carbonica, monossido di carbonio, acido solfidrico, ammoniaca, insieme ad indizi sulla presenza di un’atmosfera nuvolosa, scrivono gli autori, di natura salina. Solo ammettendo una composizione salina infatti modelli e osservazioni erano coerenti tra loro, ha spiegato Baburaj in una nota dell’ateneo: “Abbiamo provato tre diversi tipi di nuvole e quelle saline si sono rivelate le più adatte. Tenendo conto delle nuvole saline, la traccia delle molecole nascoste negli strati più profondi dell&amp;#x27;atmosfera di GJ504b si è attenuata. A quel punto, i risultati sono diventati fisicamente plausibili”.&lt;/p&gt;
+&lt;p&gt;Ma non solo: in merito alla diatriba del pianeta sì o no, i ricercatori hanno anche osservato un’abbondanza di elementi come carbonio, ossigeno e zolfo, che indurrebbe a pensare una natura planetaria, pur con una discreta incertezza. In base ai loro calcoli la nascita si collocherebbe tra i 2,5 e i 4 miliardi di anni, molto di più di quanto ipotizzato in passato (160 milioni di anni). Stimata anche la massa di questo possibile pianeta, pari a circa 25 volte quella di Giove, anche in questo caso ben maggiore di quella che si trova ora sulla carta di identità della Nasa (ma da confermare).&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.wired.it/article/cosa-ha-scoperto-james-webb-telescope-sul-misterioso-pianeta-non-pianeta-rosa-gj504b</guid>
+      <pubDate>Mon, 22 Jun 2026 16:29:51 +0200</pubDate>
+      <dc:creator>Anna Lisa Bonfranceschi</dc:creator>
+    </item>
     <item>
       <title>L’intelligenza artificiale può colmare il vuoto dei primi minuti di un’emergenza? La scommessa di AI-h</title>
       <link>https://www.wired.it/article/intelligenza-artificiale-puo-colmare-vuoto-dei-primi-minuti-di-emergenza-la-scommessa-di-ai-h</link>
       <description>&lt;p&gt;&lt;em&gt;Il brevetto sviluppato da Paola Cerri nasce dall’idea di utilizzare dati, parametri vitali e geolocalizzazione per ridurre il tempo dell’incertezza nelle emergenze e fornire ai soccorritori un quadro più completo della situazione&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://media-assets.wired.it/photos/6a2ac8a37031042c7f780a74/16:9/w_5904,h_3321,c_limit/1489956013" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://media-assets.wired.it/photos/6a2ac8a37031042c7f780a74/16:9/w_5904,h_3321,c_limit/1489956013" /&gt;&lt;/p&gt;
 &lt;p&gt;Ci sono invenzioni che nascono da un’intuizione e altre che nascono da un’assenza. AI-h appartiene a questa seconda categoria. Un’idea che nasce per colmare un vuoto preciso: i primi minuti in cui, in un’emergenza, tutto può ancora essere salvato.&lt;/p&gt;
 &lt;p&gt;AI-h nasce da una perdita personale della sua inventrice, Paola Cerri. La sua migliore amica ebbe un incidente mentre praticava uno sport acquatico. “Non fu trovata in tempo. Da lì è nata una domanda che non mi ha più lasciata: perché proprio nei minuti in cui una vita può essere ancora salvata continuiamo a sapere troppo poco, troppo tardi?”&lt;/p&gt;
 &lt;p&gt;Dal dolore all’idea&lt;/p&gt;
@@ -39,14 +53,14 @@
 &lt;p&gt;“La vera sfida è dare agli operatori strumenti nuovi per arrivare prima, capire prima e intervenire meglio”, spiega Cerri. È in questa logica che l’intelligenza artificiale diventa alleata e non alternativa, uno strumento per ridurre il tempo dell’incertezza, quello in cui spesso si gioca tutto.&lt;/p&gt;
 &lt;p&gt;“Le invenzioni nascono dai bisogni”, conclude. “Il mio era questo: non accettare che qualcuno possa scomparire in quel vuoto di tempo in cui non si sa ancora abbastanza”.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.wired.it/article/intelligenza-artificiale-puo-colmare-vuoto-dei-primi-minuti-di-emergenza-la-scommessa-di-ai-h</guid>
-      <pubDate>Mon, 22 Jun 2026 15:35:39 +0200</pubDate>
+      <pubDate>Mon, 22 Jun 2026 13:35:39 +0000</pubDate>
       <dc:creator>Elena Betti</dc:creator>
     </item>
     <item>
       <title>Keir Starmer è il sesto primo ministro britannico a dimettersi negli ultimi dieci anni</title>
       <link>https://www.wired.it/article/keir-starmer-dimissioni-regno-unito</link>
       <description>&lt;p&gt;&lt;em&gt;Il passo indietro del leader laburista arriva a meno di due anni dalla netta vittoria del 2024, e apre l&amp;#x27;ennesima fase di instabilità politica nel Regno Unito&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://media-assets.wired.it/photos/6a3909f5ec45adf3f965ded6/16:9/w_4000,h_2250,c_limit/GettyImages-2282209778.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://media-assets.wired.it/photos/6a3909f5ec45adf3f965ded6/16:9/w_4000,h_2250,c_limit/GettyImages-2282209778.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Il primo ministro britannico Keir Starmer ha annunciato le dimissioni a meno di due anni dalla schiacciante vittoria elettorale con cui aveva portato il Partito laburista al governo.&lt;/p&gt;
 &lt;p&gt;Un passo indietro “annunciato”&lt;/p&gt;
 &lt;p&gt;Dall’inizio del suo mandato, la popolarità di Starmer è progressivamente crollata, in una fase in cui i cittadini del Regno Unito si trovano a fare i conti con aumenti delle tasse, tagli alla spesa pubblica e servizi pubblici in affanno nonostante i miglioramenti promessi. Le elezioni amministrative di maggio avevano già confermato le difficoltà del Labour nel mantenere il sostegno dell’elettorato: a livello locale, il partito ha perso quasi 1500 consiglieri e il controllo di 38 amministrazioni in tutto il paese, in molti casi a vantaggio di Reform UK, il partito di destra guidato da Nigel Farage.&lt;/p&gt;
@@ -58,14 +72,14 @@
 &lt;p&gt;La vittoria del Labour alle elezioni politiche del luglio 2024 aveva messo fine a 14 anni di governo conservatore nel Regno Unito, durante i quali si erano succeduti cinque primi ministri diversi.&lt;/p&gt;
 &lt;p&gt;Questo articolo è apparso originariamente su Wired US.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.wired.it/article/keir-starmer-dimissioni-regno-unito</guid>
-      <pubDate>Mon, 22 Jun 2026 14:58:48 +0200</pubDate>
+      <pubDate>Mon, 22 Jun 2026 12:58:48 +0000</pubDate>
       <dc:creator>Isabella Ward, Edoardo Gerardo Zaccone</dc:creator>
     </item>
     <item>
       <title>Come l’intelligenza artificiale può gestire le emergenze, la sfida di PromptAId Arena</title>
       <link>https://www.wired.it/article/gestire-emergenze-sfida-promptaid-arena</link>
       <description>&lt;p&gt;&lt;em&gt;È nata la prima piattaforma che mette alla prova gli LLM più comuni e la loro capacità di supporto per chi interviene durante le catastrofi. Sembra siano bravi coi dati ma non con le mappe&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://media-assets.wired.it/photos/6a1315ab29488b4f19ad4fbf/16:9/w_6720,h_3780,c_limit/1501749796" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://media-assets.wired.it/photos/6a1315ab29488b4f19ad4fbf/16:9/w_6720,h_3780,c_limit/1501749796" /&gt;&lt;/p&gt;
 &lt;p&gt;Per gestire le emergenze o coordinare i soccorsi dopo un terremoto, usare l&amp;#x27;intelligenza artificiale, fino a qualche anno fa, poteva sembrare fantascienza. Oggi è quasi realtà, ma non sempre una buona idea. I modelli linguistici come ChatGPT, Gemini e Claude stanno già entrando nei flussi di lavoro di chi gestisce le emergenze, spesso senza che nessuno abbia verificato se funzionano davvero. PromptAId Arena nasce esattamente per colmare questo vuoto: è la prima piattaforma di valutazione al mondo dedicata all’uso dell’intelligenza artificiale nella gestione delle catastrofi. Wired Italia ha incontrato Jean-Baptiste Bove, il ricercatore che l’ha ideata, per capire come funziona e perché potrebbe cambiare il modo in cui affrontiamo le crisi.&lt;/p&gt;
 &lt;p&gt;PromptAId Arena è uno strumento di ricerca progettato per testare le prestazioni dei grandi modelli linguistici — i cosiddetti llm — applicati al supporto decisionale in situazioni di emergenza. L’obiettivo è rispondere a domande concrete: questi strumenti sono affidabili quando servono davvero? In quale fase di una crisi aiutano? Dove, invece, è meglio non fidarsi di loro? “L’idea è nata osservando come in questo settore non esiste un benchmark, un insieme di parametri di riferimento standard e oggettivi per valutare, misurare e confrontare le prestazioni dell’AI – spiega Bove –. Serviva una base dati empirica che potesse aiutare a capire quali sono i limiti di questa tecnologia applicata alla gestione dell’emergenza&amp;quot;.&lt;/p&gt;
 &lt;p&gt;La piattaforma è frutto del dottorato di Bove in intelligenza artificiale per il monitoraggio dei disastri, finanziato dalla Croce rossa italiana e sviluppato in collaborazione con la Fondazione Cima, centro di competenza della Protezione civile italiana specializzato in analisi climatiche. Non è un prodotto commerciale: è uno strumento di ricerca aperto, disponibile online, pensato per chi vuole sperimentare queste tecnologie in modo strutturato prima di adottarle sul campo.&lt;/p&gt;
@@ -78,7 +92,7 @@
 &lt;p&gt;La piattaforma per llm per gestire le emergenze è già operativa e aperta a collaborazioni con altre organizzazioni attive nella gestione delle crisi che vogliano testarla come stanno facendo i volontari della Croce Rossa Italiana. L’idea di Bove non è dare i voti ai modelli in veste di soccorritori ma “usare i risultati per sviluppare un sistema agentico per la gestione delle emergenze basato su questa sperimentazione. Un tool ad hoc per il settore”.&lt;/p&gt;
 &lt;p&gt;C’è però un limite pratico che Bove non nasconde: “Sarebbe molto più efficace pagare un gruppo di professionisti per una settimana di valutazioni intensive. Non avendo i fondi, lo stiamo facendo attraverso il volontariato. Ce la stiamo cavando così, ma obiettivamente sarebbe meglio&amp;quot;. Nel frattempo, il messaggio è semplice: prima di affidare all’ai decisioni che riguardano vite umane, vale la pena capire esattamente cosa sa fare e cosa no. PromptAId Arena esiste per rispondere a questa domanda.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.wired.it/article/gestire-emergenze-sfida-promptaid-arena</guid>
-      <pubDate>Mon, 22 Jun 2026 14:57:29 +0200</pubDate>
+      <pubDate>Mon, 22 Jun 2026 12:57:29 +0000</pubDate>
       <dc:creator>Marta Abbà</dc:creator>
     </item>
     <item>
@@ -10962,21 +10976,6 @@ Più che un’inchiesta o una protesta, le Scientology speedrun finiscono quindi
       <guid isPermaLink="false">https://www.wired.it/review/anker-soundcore-space-2</guid>
       <pubDate>Tue, 12 May 2026 16:12:47 +0000</pubDate>
       <dc:creator>Lorenzo Longhitano</dc:creator>
-    </item>
-    <item>
-      <title>Jbl compie 80 anni e celebra con una stagione di novità tecnologiche</title>
-      <link>https://www.wired.it/gallery/jbl-80-anni-ai-auracast-nuove-linee-di-prodotto</link>
-      <description>&lt;p&gt;&lt;em&gt;Il marchio audio fondato in California nel 1946 festeggia gli ottant&amp;#x27;anni rilanciando quasi tutto il catalogo: speaker portatili con AI Sound Boost, microfoni karaoke che separano la voce dalla base in tempo reale&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://media-assets.wired.it/photos/6a02f1f9ec7fe0368b0ecdee/16:9/w_3248,h_1827,c_limit/avviversario%20jbl%20prodotti.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Tra le new entry, speaker portatili con AI Sound Boost e microfoni karaoke che separano la voce dalla base in tempo reale Nel 1946, in California, un ingegnere di nome James Bullough Lansing fonda un&amp;#x27;azienda per costruire altoparlanti di alto lignaggio. Ottant&amp;#x27;anni dopo, le tre lettere Jbl capeggiano sulle cuffie dei pendolari, sulle PartyBox accese in spiaggia e sui sistemi di diffusione di oltre il 40% delle sale cinematografiche del pianeta. La traiettoria è una delle più longeve dell&amp;#x27;audio di consumo: parte dai monitor da studio, attraversa l&amp;#x27;epoca dei grandi sistemi hi-fi degli anni Settanta, intercetta la rivoluzione dello speaker bluetooth portatile, e oggi entra in quella che possiamo chiamare la fase software - il momento in cui non basta più una membrana ben fatta, serve un algoritmo che sappia come usarla. Da rilevare che Jbl dal 1969 è un marchio di Harman International, a sua volta sussidiaria di Samsung dal 2017. L&amp;#x27;ecosistema Harman include Jbl, Harman Kardon, Akg, Infinity, Crown, Lexicon, Mark Levinson e altri marchi.
-Per festeggiare il traguardo, Jbl oggi ha deciso di non limitarsi a un&amp;#x27;edizione speciale celebrativa: ha rilanciato buona parte del catalogo. Accanto ai prodotti, ha annunciato un roadshow internazionale: la Jbl Playback Gallery nel corso del 2026 toccherà Amsterdam, Los Angeles, Monaco, New York, Tokyo e Vienna, ripercorrendo la storia del marchio attraverso i suoi oggetti iconici. Di grande impatto la rivista digitale celebrativa (disponibile per un periodo limitato) e una stagione speciale del podcast Audio Talks di Harman, con interviste a ingegneri, designer e artisti che hanno contribuito a definire il suono Jbl.
-Cosa raccontano, insieme, tutte queste novità
-Se si guarda l&amp;#x27;operazione dall&amp;#x27;alto, spiccano sette linee di prodotto rinnovate o aggiornate in un unico colpo. Praticamente ogni novità di rilievo passa attraverso l&amp;#x27;intelligenza artificiale: AI Sound Boost per ottimizzare l&amp;#x27;audio degli speaker, AI Vocal Removal per i microfoni karaoke, algoritmi addestrati con IA per la cancellazione del rumore e per la qualità delle chiamate sulle cuffie. È il segnale che, nell&amp;#x27;audio di consumo, la differenza competitiva si sta spostando dal componente fisico al codice che lo governa.
-In parallelo, Jbl continua a investire su due fronti che con l&amp;#x27;AI hanno poco a che fare: il design industriale - dal nuovo profilo esagonale delle PartyBox alle cerniere in metallo delle Live, fino al verde-rame di gusto british racing per le Tour - e la sostenibilità materiale, con plastica riciclata fino all&amp;#x27;82% sulle PartyBox, imballaggi in carta certificata Fsc e batterie sostituibili. Sono mosse che parlano a un pubblico che chiede non solo prestazioni, ma anche oggetti credibili come scelta di acquisto a lungo termine.
-L&amp;#x27;altra costante, quasi sottotraccia, è Auracast: lo standard bluetooth per il broadcasting audio compare praticamente su ogni nuovo speaker e su tutta la gamma cuffie. Non è una dettaglio minore. Cambia il modo in cui l&amp;#x27;audio può essere distribuito in spazi collettivi, abilita scenari di ascolto condiviso, e anticipa l&amp;#x27;esperienza in cui smetterà di essere ovvio che uno speaker o un paio di cuffie servano una persona sola alla volta. Per altro l&amp;#x27;attivazione è immediata: basta avvicinare gli altoparlanti.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.wired.it/gallery/jbl-80-anni-ai-auracast-nuove-linee-di-prodotto</guid>
-      <pubDate>Tue, 12 May 2026 15:38:31 +0000</pubDate>
-      <dc:creator>Dario d'Elia</dc:creator>
     </item>
   </channel>
 </rss>
